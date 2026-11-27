@@ -1,0 +1,13 @@
+{
+  "name": "NoSun | Subsurface Cultivation Works",
+  "prompt": "prompts/nosun.txt",
+  "seed": 433,
+  "environment": {"dimensions_m": [17, 36, 6.8], "depth_below_desert_m": 86},
+  "pods": {"columns_x_m": [-6.45, -3.15, 3.15, 6.45], "rows_y_m": [-10, -6, -2, 2, 6, 10], "radius_m": 1.02, "height_m": 2.65, "crop": "layered leafy brassica"},
+  "aisle": {"width_m": 3.2, "deck_height_m": 0.36},
+  "services": {"vent_centers_x_m": [-5.25, 5.25], "water_centers_x_m": [-1.86, 1.86], "station_y_m": 13.4},
+  "palette": {"enamel": [0.62, 0.29, 0.075], "grow": [0.61, 0.09, 1.0], "task": [1.0, 0.68, 0.34], "cool": [0.46, 0.78, 0.93]},
+  "lighting": {"pod_watts": 90, "ceiling_watts": 210, "haze_density": 0.0028},
+  "camera": {"position_m": [-0.85, -15.8, 3.15], "target_m": [0.35, 4.5, 2.08], "lens_mm": 23},
+  "render": {"engine": "BLENDER_EEVEE_NEXT", "resolution": [960, 540], "samples": 24}
+}

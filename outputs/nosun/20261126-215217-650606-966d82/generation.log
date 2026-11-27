@@ -1,0 +1,12 @@
+["/Applications/Blender.app/Contents/MacOS/Blender", "-b", "--factory-startup", "--disable-autoexec", "-t", "4", "/Users/crabbat/dev/media-factory/outputs/nosun/20261126-215152-497923-6ad9ac/scene.blend", "--python-exit-code", "1", "-P", "/Users/crabbat/dev/media-factory/factory/blender_job.py", "--", "render", "/Users/crabbat/dev/media-factory/projects/nosun", "/Users/crabbat/dev/media-factory/outputs/nosun/20261126-215217-650606-966d82"]
+Validated 1864 objects, camera Aisle survey
+Blender 4.5.0 (hash 8cb6b388974a built 2025-07-15 01:35:28)
+Read blend: "/Users/crabbat/dev/media-factory/outputs/nosun/20261126-215152-497923-6ad9ac/scene.blend"
+Fra:1 Mem:220.59M (Peak 234.65M) | Time:00:00.74 | Rendering 1 / 24 samples
+Fra:1 Mem:220.74M (Peak 234.65M) | Time:00:10.95 | Rendering 24 / 24 samples
+Saved: '/Users/crabbat/dev/media-factory/outputs/nosun/20261126-215217-650606-966d82/preview.png'
+Time: 00:11.06 (Saving: 00:00.09)
+
+
+Blender quit
+Blender exit code 0
